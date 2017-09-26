@@ -1,0 +1,16 @@
+Plain Egg
+Bacon and Egg
+Muffin
+French Toast
+Fruit Basket
+Cereal
+Coffee
+Tea
+1.45
+2.45
+0.99
+1.99
+2.49
+0.69
+0.50
+0.75

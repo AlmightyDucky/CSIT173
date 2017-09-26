@@ -1,0 +1,8 @@
+DepartmentName Electric Copier Phone Miscellaneous
+Bookkeeping 434.92 233.76 322.25 1442.98
+Sales 610.55 233.21 144.75 1232.20
+Service 343.21 224.76 128.90 987.00
+CustomerRelations 278.23 98.43 177.34 899.32
+Marketing 522.32 109.78 233.45 1232.45
+Media 132.98 221.43 119.56 1090.30
+HumanResources 109.56 342.87 298 1154
